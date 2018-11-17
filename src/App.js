@@ -1,12 +1,11 @@
-import React, { Component } from 'react';
-
+import React, { Component } from "react";
+import Container from "./components/Container";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-
-      this is for trillo
+        <Container />
       </div>
     );
   }

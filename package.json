@@ -9,6 +9,7 @@
     "react-scripts": "2.0.5"
   },
   "scripts": {
+    "precommit": "pretty-quick --staged",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
